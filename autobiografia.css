@@ -55,10 +55,10 @@ h1{
 h1:hover{
   transform:scale(1.2);
 }
-li{
+p{
   transition: all 0.2s ease-in-out;
 }
-li:hover{
+p:hover{
   transform:scale(1.05);
 }
 img{
